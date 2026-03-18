@@ -1,4 +1,4 @@
-[![ClawHub](https://img.shields.io/badge/ClawHub-newsticker-red)](https://clawhub.ai/skills/newsticker)
+[![ClawHub](https://img.shields.io/badge/ClawHub-newsticker-red)](https://clawhub.ai/skills/meetup)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Compatible-brightgreen)](https://openclaw.ai)
 [![DACH](https://img.shields.io/badge/Sprache-Deutsch-blue)](https://clawnews.de)
@@ -96,7 +96,3 @@ meetup/
 - 🌐 ClawNews.de: https://clawnews.de
 - 💬 Discord: https://discord.com/invite/qhfgMkjcaT
 - 📧 Kontakt: skill@clawnews.de
-
-## Lizenz
-
-MIT License.
