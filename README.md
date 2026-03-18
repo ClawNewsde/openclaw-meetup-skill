@@ -95,4 +95,4 @@ meetup/
 
 ## Lizenz
 
-MIT License — siehe [LICENSE](LICENSE).
+MIT License — see (LICENSE).
