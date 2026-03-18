@@ -1,7 +1,7 @@
 [![ClawHub](https://img.shields.io/badge/ClawHub-meetup-red)](https://clawhub.ai/skills/meetup)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![OpenClaw](https://img.shields.io/badge/OpenClaw-Compatible-brightgreen)](https://openclaw.ai)
-[![DACH](https://img.shields.io/badge/Sprache-Deutsch-blue)](https://clawnews.de)
+[![Global](https://img.shields.io/badge/Language-Global-blue)](https://clawnews.de)
 
 # 🦞 claw://Meetup
 
