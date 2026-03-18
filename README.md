@@ -91,7 +91,7 @@ meetup/
 - 🌐 OpenClaw: https://openclaw.ai
 - 🌐 ClawNews.de: https://clawnews.de
 - 💬 Discord: https://discord.com/invite/qhfgMkjcaT
-- 📧 Kontakt: mailto:skill@clawnews.de
+- 📧 Kontakt: skill@clawnews.de
 
 ## Lizenz
 
