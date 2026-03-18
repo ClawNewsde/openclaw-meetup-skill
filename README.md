@@ -1,4 +1,8 @@
-[README.md](https://github.com/user-attachments/files/26096513/README.md)
+[![ClawHub](https://img.shields.io/badge/ClawHub-newsticker-red)](https://clawhub.ai/skills/newsticker)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![OpenClaw](https://img.shields.io/badge/OpenClaw-Compatible-brightgreen)](https://openclaw.ai)
+[![DACH](https://img.shields.io/badge/Sprache-Deutsch-blue)](https://clawnews.de)
+
 # 🦞 claw://Meetup
 
 Dein Radar für OpenClaw-Meetups und relevante AI-/Agent-Community-Events.
